@@ -9,6 +9,10 @@ This project provides a comprehensive analysis of Blinkit's sales performance, o
 - **Average Rating:** 4.0
 
 Sales are categorized by item type, fat content, outlet size, and location, with Supermarket Type 1 leading in revenue.
+## Dashboard
+
+https://github.com/user-attachments/assets/06ff2680-b3ea-4ea0-be1f-b83d91fdef2c
+
 
 ## Table of Contents
 
